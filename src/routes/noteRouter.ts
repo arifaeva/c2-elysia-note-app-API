@@ -1,4 +1,4 @@
-import { Elysia, t } from "elysia";
+import { Elysia } from "elysia";
 import { getAllNotes } from "../controllers/getAllNotes";
 import { createNote, createNoteSchema } from "../controllers/createNote";
 import { getSingleNote } from "../controllers/getSingleNote";
